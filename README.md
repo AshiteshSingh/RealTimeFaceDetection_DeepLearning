@@ -11,3 +11,8 @@
 
 ![Captain_Price](https://github.com/user-attachments/assets/95603480-cf42-4302-9154-54d0c627fd44)
 ![output_Captain_Price](https://github.com/user-attachments/assets/a021580a-8728-4c3b-aea0-23a9ca09c47e)
+
+
+
+![Tiger_Shroff](https://github.com/user-attachments/assets/d178e41c-674e-4aa7-ba06-5ee5d1e36ef8)
+![output_Tiger_Shroff](https://github.com/user-attachments/assets/400f348a-90c5-4e8d-97fd-efde98c8fcc8)
