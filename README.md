@@ -69,30 +69,24 @@ This project was built by:
 <!-- Line 69-71: Team member images -->
 <img src="https://github.com/user-attachments/assets/a869eba2-5fd6-427e-9bf2-79e4cb7f8319" alt="aashay" width="300">
 <img src="https://github.com/user-attachments/assets/bd7b41dc-adbc-4237-80fd-a2871ebfa5dc" alt="Ashitesh" width="300">
-<img src="https://github.com/user-attachments/assets/633cf39a-632e-4be3-a7cf-7fec6d56bd0c" alt="manglesh" width="300">
+<img src="https://github.com/user-attachments/assets/633cf39a-632e-4be3-a7cf-7fec6d56b00c" alt="manglesh" width="300">
 
-<!-- Line 73-74: Output test images -->
-![output_test3](https://github.com/user-attachments/assets/36c071f8-643c-45cb-9fa9-e2b46aa7b41d)
+![output_test3](https://github.com/user-attachments/assets/36e071f8-643c-45cb-9fa9-e2b46aa7b41d)
 ![output_test2](https://github.com/user-attachments/assets/09f699d2-d5fa-4507-b7c6-221191b06536)
 
-<!-- Line 76-77: Salman Khan images -->
-![Salman_Khan_1](https://github.com/user-attachments/assets/ffd721bc1-88a5-4398-a607-476fe3d38ed1)
-![output_Salman_Khan_1](https://github.com/user-attachments/assets/dae02699-82a1-4887-94aa-a12686200d1c)
+![Salman_Khan_](https://github.com/user-attachments/assets/fd771bc1-88a5-4390-a607-476fe3d38ed1)
+![output_Salman_Khan_](https://github.com/user-attachments/assets/dae02699-82a1-4887-94aa-a1268620001c)
 
-<!-- Line 79-80: Captain Price images -->
-![Captain_Price](https://github.com/user-attachments/assets/95603480-cf42-4309-9154-54d0c627fd44)
+![Captain_Price](https://github.com/user-attachments/assets/95603480-cf42-4302-9154-54d0c627fd44)
 ![output_Captain_Price](https://github.com/user-attachments/assets/a021580a-8728-4c3b-aea0-23a9ca09c47e)
 
-<!-- Line 84-85: Tiger Shroff images -->
-![Tiger_Shroff](https://github.com/user-attachments/assets/d178e41c-674e-4aa7-ba06-5ee5d1e36ef8)
-![output_Tiger_Shroff](https://github.com/user-attachments/assets/400f348a-90c5-4e80-97fd-efde98c8fcc8)
 
-<!-- Line 87-88: Image 2 -->
+
+![Tiger_Shroff](https://github.com/user-attachments/assets/d178e41c-674e-4aa7-ba06-5ee5d1e36ef8)
+![output_Tiger_Shroff](https://github.com/user-attachments/assets/400f348a-90c5-4e8d-97fd-efde98c8fcc8)
+
 ![2](https://github.com/user-attachments/assets/efa8466c-f237-4963-9054-f56a059ec86f)
 ![output_2](https://github.com/user-attachments/assets/78cbf980-b984-48eb-8cde-a2634a07667f)
 
-<!-- Line 90-91: Image 3 -->
-![3](https://github.com/user-attachments/assets/a12e6e01-fb83-4e5c-a956-7def8f5ea8c3)
+![3](https://github.com/user-attachments/assets/a12e6e01-fb83-4e5c-a956-7def0f5ea8c3)
 ![output_3](https://github.com/user-attachments/assets/cae6f567-071a-4b47-a6a6-6a55c301f110)
-
-
