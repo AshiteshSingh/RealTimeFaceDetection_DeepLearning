@@ -1,6 +1,9 @@
 # RealTimeFaceDetection
-![Ashitesh](https://github.com/user-attachments/assets/bd7b41dc-adbc-4237-80fd-a2871ebfa5dc)
+<img src="image1.png" width="400">
+<img src="image2.png" width="400">
 
+
+![Ashitesh](https://github.com/user-attachments/assets/bd7b41dc-adbc-4237-80fd-a2871ebfa5dc)
 ![aashay](https://github.com/user-attachments/assets/a869eba2-5fd6-427e-9bf2-79e4cb7f8319)
 ![manglesh](https://github.com/user-attachments/assets/633cf39a-632e-4be3-a7cf-7fec6d56b00c)
 
