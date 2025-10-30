@@ -66,10 +66,6 @@ This project was built by:
 
 | Ashitesh Singh['Machine Learning,Python,DeepLearning] | Varun Srivastava['java']  | Aashay Singh['java'] | Aashray Singh['java']
 | **Project Lead & Developer**| **QA & Testing**|**Documentation** |
-
-
-
-Demo Photos Of the working Model
 <img src="https://github.com/user-attachments/assets/a869eba2-5fd6-427e-9bf2-79e4cb7f8319" alt="aashay" width="300">
 <img src="https://github.com/user-attachments/assets/bd7b41dc-adbc-4237-80fd-a2871ebfa5dc" alt="Ashitesh" width="300">
 <img src="https://github.com/user-attachments/assets/633cf39a-632e-4be3-a7cf-7fec6d56b00c" alt="manglesh" width="300">
