@@ -68,8 +68,8 @@ This project was built by:
 | **Project Lead & Developer**| **QA & Testing**|**Documentation** |
 <!-- Line 69-71: Team member images -->
 <img src="https://github.com/user-attachments/assets/a869eba2-5fd6-427e-9bf2-79e4cb7f8319" alt="aashay" width="300">
-<img src="https://github.com/user-attachments/assets/bd7b41dc-adbc-4237-80fd-a2871ebfa5dc" alt="Ashitesh" width="300">
 <img src="https://github.com/user-attachments/assets/3a74a80e-e622-469c-b753-7c7946f8644e" alt="Varun" width="300">
+<img src="https://github.com/user-attachments/assets/bd7b41dc-adbc-4237-80fd-a2871ebfa5dc" alt="Ashitesh" width="250">
 
 ![output_test3](https://github.com/user-attachments/assets/36e071f8-643c-45cb-9fa9-e2b46aa7b41d)
 ![output_test2](https://github.com/user-attachments/assets/09f699d2-d5fa-4507-b7c6-221191b06536)
