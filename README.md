@@ -5,3 +5,6 @@
 
 ![output_test3](https://github.com/user-attachments/assets/36e071f8-643c-45cb-9fa9-e2b46aa7b41d)
 ![output_test2](https://github.com/user-attachments/assets/09f699d2-d5fa-4507-b7c6-221191b06536)
+
+![Salman_Khan_](https://github.com/user-attachments/assets/fd771bc1-88a5-4390-a607-476fe3d38ed1)
+![output_Salman_Khan_](https://github.com/user-attachments/assets/dae02699-82a1-4887-94aa-a1268620001c)
