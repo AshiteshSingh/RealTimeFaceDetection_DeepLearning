@@ -1,4 +1,78 @@
-# RealTimeFaceDetection
+# 🎥 Real-Time Face Detection System
+
+> This project is a submission for the **Viksit Bharat Buildathon 🇮🇳**
+
+A comprehensive face detection and recognition system built in Python. This tool can identify and process faces from static images, pre-recorded videos, and live webcam feeds.
+
+---
+
+## 🌟 Key Features
+
+* **Image Mode:** Analyzes a static image file, detects all faces, and saves the cropped faces to the `output/` directory.
+* **Video Mode:** Processes a video file (like `.mp4`), performing face detection on every frame and outputting a new video with detection boxes.
+* **Live Mode:** Uses your computer's webcam to perform real-time face detection and recognition.
+
+---
+
+## 🛠️ Tech Stack
+
+* **Python 3.10+**
+* **OpenCV** (for image and video processing)
+* **TensorFlow / Keras** (for the deep learning model)
+* **NumPy** (for numerical operations)
+* **Jupyter Notebook** (for development and demonstration)
+
+---
+
+## ⚙️ Getting Started
+
+Follow these instructions to get a copy of the project running on your local machine.
+
+### 1. Prerequisites
+
+You must have Python 3.10 or higher and `pip` installed.
+
+### 2. Installation
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/AshiteshSingh/RealTimeFaceDetection_DeepLearning.git](https://github.com/AshiteshSingh/RealTimeFaceDetection_DeepLearning.git)
+    cd RealTimeFaceDetection_DeepLearning
+    ```
+
+2.  **Create and activate a virtual environment:**
+    ```bash
+    # For Windows
+    python -m venv venv
+    .\venv\Scripts\activate
+    
+    # For macOS/Linux
+    python3 -m venv venv
+    source venv/bin/activate
+    ```
+
+3.  **Install the required libraries:**
+    *(**INSTRUCTION:** This step **requires** you to create and upload the `requirements.txt` file first! To create it, run `pip freeze > requirements.txt` in your terminal.)*
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+### 3. Running the Project
+
+1.  Open the project in VS Code (or your preferred editor).
+2.  Launch the `DL.ipynb` notebook.
+3.  Run the cells in order.
+4.  You can change the `MODE` variable at the top of the notebook to `'IMAGE'`, `'VIDEO'`, or `'LIVE'` to test the different features.
+
+---
+
+## 👨‍💻 The Team
+
+This project was built by:
+
+| Ashitesh Singh['Machine Learning,Python,DeepLearning] | Varun Srivastava['java']  | Aashay Singh['java'] | Aashray Singh['java']
+| **Project Lead & Developer** | **QA & Testing** | **Documentation** |
+
 <img src="https://github.com/user-attachments/assets/a869eba2-5fd6-427e-9bf2-79e4cb7f8319" alt="aashay" width="300">
 <img src="https://github.com/user-attachments/assets/bd7b41dc-adbc-4237-80fd-a2871ebfa5dc" alt="Ashitesh" width="300">
 <img src="https://github.com/user-attachments/assets/633cf39a-632e-4be3-a7cf-7fec6d56b00c" alt="manglesh" width="300">
