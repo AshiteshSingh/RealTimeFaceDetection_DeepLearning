@@ -65,7 +65,7 @@ You must have Python 3.10 or higher and `pip` installed.
 This project was built by:
 
 | Ashitesh Singh['Machine Learning,Python,DeepLearning] | Varun Srivastava['java']  | Aashay Singh['java'] | Aashray Singh['java']
-| **Project Lead & Developer**                             | **QA & Testing** |              |**Documentation** |
+| **Project Lead & Developer**| **QA & Testing**|**Documentation** |
 
 
 
