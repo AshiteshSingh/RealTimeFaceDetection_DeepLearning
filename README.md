@@ -8,3 +8,6 @@
 
 ![Salman_Khan_](https://github.com/user-attachments/assets/fd771bc1-88a5-4390-a607-476fe3d38ed1)
 ![output_Salman_Khan_](https://github.com/user-attachments/assets/dae02699-82a1-4887-94aa-a1268620001c)
+
+![Captain_Price](https://github.com/user-attachments/assets/95603480-cf42-4302-9154-54d0c627fd44)
+![output_Captain_Price](https://github.com/user-attachments/assets/a021580a-8728-4c3b-aea0-23a9ca09c47e)
