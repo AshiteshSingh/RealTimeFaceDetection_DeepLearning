@@ -16,3 +16,11 @@
 
 ![Tiger_Shroff](https://github.com/user-attachments/assets/d178e41c-674e-4aa7-ba06-5ee5d1e36ef8)
 ![output_Tiger_Shroff](https://github.com/user-attachments/assets/400f348a-90c5-4e8d-97fd-efde98c8fcc8)
+
+![2](https://github.com/user-attachments/assets/efa8466c-f237-4963-9054-f56a059ec86f)
+![output_2](https://github.com/user-attachments/assets/78cbf980-b984-48eb-8cde-a2634a07667f)
+
+![3](https://github.com/user-attachments/assets/a12e6e01-fb83-4e5c-a956-7def0f5ea8c3)
+![output_3](https://github.com/user-attachments/assets/cae6f567-071a-4b47-a6a6-6a55c301f110)
+
+
