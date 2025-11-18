@@ -3,3 +3,6 @@ opencv-python
 numpy
 pandas
 tqdm
+tensorflow
+os
+python=3.10
